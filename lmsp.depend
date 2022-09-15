@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1386440676 source:d:\c project\lmsp\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386360578 d:\c project\lmsp\conio2.h
+	<conio.h>
+	<windows.h>
+
+1576074461 source:d:\c project\lmsp\lmsp.c
+	<stdio.h>
+	"lmsp.h"
+	<string.h>
+	"conio2.h"
+
+1576003392 d:\c project\lmsp\lmsp.h
+
+1576074377 source:d:\c project\lmsp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"lmsp.h"
+
+1386440676 source:d:\lmsp\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386360578 d:\lmsp\conio2.h
+	<conio.h>
+	<windows.h>
+
+1576224198 source:d:\lmsp\lmsp.c
+	<stdio.h>
+	"lmsp.h"
+	<string.h>
+	"conio2.h"
+
+1576003394 d:\lmsp\lmsp.h
+
+1576074378 source:d:\lmsp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"lmsp.h"
+
